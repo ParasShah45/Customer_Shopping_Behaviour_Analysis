@@ -125,22 +125,22 @@ Customer Experience
 
 
 ## DAX Measures
-Average Purchase Amount
+### Average Purchase Amount
 
 Average Purchase Amount =
 AVERAGE(customer_behaviour[purchase_amount])
 
-Average Review Rating
+### Average Review Rating
 
 Average Review Rating =
 AVERAGE(customer_behaviour[review_rating])
 
-Number of Customers
+### Number of Customers
 
 Number of Customers =
 COUNT(customer_behaviour[customer_id])
 
-Total Revenue
+### Total Revenue
 
 Total Revenue =
 SUM(customer_behaviour[purchase_amount])
