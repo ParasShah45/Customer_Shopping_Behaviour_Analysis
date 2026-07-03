@@ -1,5 +1,3 @@
-# End-to-End Data Analyst Project
-
 ## Customer Shopping Behavior Analysis
 
 ## Project Overview
